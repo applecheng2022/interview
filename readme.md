@@ -1,5 +1,6 @@
 Firstly the dataset need to convert to UTF-8 code in excel, hence data.csv created.
 
+
 # Clean Road types #
 
 Get a copy of the AS NZS 4819-2011 Rural and urban addressing road type standards
