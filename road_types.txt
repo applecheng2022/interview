@@ -1,0 +1,148 @@
+Access	 	 	 	 	 
+Alley	Ally
+Alleyway	 	 	 	 	 
+Amble	Amb
+Approach	App
+Arcade	Arc
+Arterial	Art	 	 	 	 
+Avenue	Ave
+Barracks	 	 	 	 	 
+Basin	 	 	 	 	 
+Bay	Bay	 	 	 	 
+Beach	 	 	 	 	 
+Bend	Bend	 	 	 	 
+Block	 	 	 	 	 
+Boardwalk	Bwlk
+Boulevard	Blvd
+Bowl	Bwl	 	 	 	 
+Brae	Brae	 	 	 	 
+Break	Brk
+Bypass	Bypa
+Centre	 	 	 	 	 
+Chase	Ch
+Circle	Ccl	 	 	 	 
+Circuit	Cct
+Circus	Ccs	 	 	 	 
+Close	Cl
+Common	Com	 	 	 	 
+Concours	Con
+Corner	Cnr
+Course	Crse
+Court	Ct
+Cove	Cv
+Creek	 	 	 	 	 
+Crescent	Cr
+Crest	Crst
+Cross	Cros	 	 	 	 
+Cruiseway	Cry	 	 	 	 
+Dale	Dale	 	 	 	 
+Dell	Dell	 	 	 	 
+Dene	Dene	 	 	 	 
+Divide	Div	 	 	 	 
+Domain	Dom	 	 	 	 
+Drive	Dr
+Driveway	 	 	 	 	 
+East	East	 	 	 	 
+Edge	Edg	 	 	 	 
+Entrance	Ent
+Esplanande	Esp
+Extension	Extn	 	 	 	 
+Firetrail	Ftrl
+Flats	Flts	 	 	 	 
+Ford	Ford	 	 	 	 
+Freeway	Fwy
+Garden	Gdn	 	 	 	 
+Gate	Gate	 	 	 	 
+Gateway	Gwy	 	 	 	 
+Glade	Glde
+Glen	Gln	 	 	 	 
+Grange	Gra
+Green	Grn	 	 	 	 
+Ground	 	 	 	 	 
+Grove	Gr
+Gully	Gly	 	 	 	 
+Heath	Hth	 	 	 	 
+Heights	Hts	 	 	 	 
+Highway	Hwy
+Hill	Hill	 	 	 	 
+Hollow	Hlw	 	 	 	 
+Hub	Hub	 	 	 	 
+Island	Isl	 	 	 	 
+Junction	Jct	 	 	 	 
+Key	Key	 	 	 	 
+Lane	Ln
+Laneway	Lwy	 	 	 	 
+Link	Link	 	 	 	 
+Lookout	 	 	 	 	 
+Loop	Loop
+Lower	Lwr	 	 	 	 
+Mall	Mall
+Mew	Mew	 	 	 	 
+Mews	Mews
+Motorway	 	 	 	 	 
+Nook	Nook	 	 	 	 
+North	Nth	 	 	 	 
+Outlook	Out	 	 	 	 
+Oval	 	 	 	 	 
+Parade	Pde
+Park	 	 	 	 	 
+Parkway	Pwy
+Pass	PS	 	 	 	 
+Passage	Psge
+Path	Path
+Pathway	Pway	 	 	 	 
+Pier	 	 	 	 	 
+Place	Pl
+Plaza	Plza
+Pocket	Pkt	 	 	 	 
+Point	Pt	 	 	 	 
+Port	 	 	 	 	 
+Promenade	Prom
+Pursuit	Pur	 	 	 	 
+Quadrand	Pde	 	 	 	 
+Quays	Qys
+Racecourse	 	 	 	 	 
+Ramp	Ramp
+Reach	Rch	 	 	 	 
+Reserve	Res	 	 	 	 
+Rest	REST	 	 	 	 
+Retreat	Rtt
+Return	Rtn	 	 	 	 
+Ride	Ride	 	 	 	 
+Ridge	Rdge
+Rise	Rise
+Rising	Rsg	 	 	 	 
+Road	Rdge
+Round	Rnd	 	 	 	 
+Rout	 	 	 	 	 
+Row	Row	 	 	 	 
+Run	Run	 	 	 	 
+Slope	Slo	 	 	 	 
+South	Sth	 	 	 	 
+Square	Sq
+Station	 	 	 	 	 
+Steps	Stps
+Street	St
+Strip	Stp	 	 	 	 
+Subway	Sbwy
+Terrace	Tce
+Throughway	Thru	 	 	 	 
+Tollway	Twy	 	 	 	 
+Tor	Tor	 	 	 	 
+Track	Trk
+Trail	Trl
+Turn	Turn	 	 	 	 
+Upper	Upr	 	 	 	 
+Valley	Vly	 	 	 	 
+View	View
+Village	 	 	 	 	 
+Vista	Vsta
+Walk	Walk
+Walkway	Wkwy	 	 	 	 
+Waters	Wtrs	 	 	 	 
+Waterway	Wry	 	 	 	 
+Way	Way
+West	West	 	 	 	 
+Wharf	Wharf
+Wood	Wd	 	 	 	 
+Wynd	Wyd
